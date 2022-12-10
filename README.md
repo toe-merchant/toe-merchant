@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @toe-merchant
+- 👀 I’m interested in videogames, mechanical keyboards, and game dev
+- 🌱 I’m currently learning Lua, Godot, and c#
