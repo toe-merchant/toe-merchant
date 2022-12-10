@@ -1,8 +1,7 @@
 About me--------------------------------------------------------------
 
-- I’m toe merchant
 - i like titanfall 2, cult of the lamb, adofai, and some other games
-- i like arson, improv, storytelling, rock music, and playing the drums in my spare time
+- i like improv, storytelling, rock music, and playing the drums in my spare time
 - typing aficionado
 - i dont get very many things done
 - asexual because yes
