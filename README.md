@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @toe-merchant
-- 👀 I’m interested in videogames, mechanical keyboards, and game dev
-- 🌱 I’m currently learning Lua, Godot, and c#
+- I’m @toe-merchant
+- I like videogames, mechanical keyboards, and game dev
+- I’m currently learning Lua, Godot, and c#
+- Currently working on some scratch stuff and lua
+- Discord: discord.gg/C6D854TG3r
+- Scratch: https://scratch.mit.edu/users/toe_merchant/
