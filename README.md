@@ -16,6 +16,6 @@ What I'm working on-------------------------------------------------------------
 
 Links---------------------------------------------------------------------
 
-- Discord: discord.gg/C6D854TG3r
+- Discord: https://discord.gg/C6D854TG3r
 - Scratch: https://scratch.mit.edu/users/toe_merchant/
 - MonkeyType: https://monkeytype.com/profile/toe_merchant
