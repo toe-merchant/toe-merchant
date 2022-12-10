@@ -4,3 +4,4 @@
 - Currently working on some scratch stuff and lua
 - Discord: discord.gg/C6D854TG3r
 - Scratch: https://scratch.mit.edu/users/toe_merchant/
+- MonkeyType: https://monkeytype.com/profile/toe_merchant
