@@ -1,4 +1,4 @@
-- About me--------------------------------------------------------------
+About me--------------------------------------------------------------
 
 - I’m toe merchant
 - i like titanfall 2, cult of the lamb, adofai, and some other games
@@ -15,7 +15,7 @@ What I'm working on-------------------------------------------------------------
 - Learning Godot, gdscript, and c# (Lua is higher on the list of priorities though)
 - Learning ukulele 
 
-Links--------------------------------------------------------------
+Links---------------------------------------------------------------------
 
 - Discord: discord.gg/C6D854TG3r
 - Scratch: https://scratch.mit.edu/users/toe_merchant/
