@@ -4,8 +4,7 @@ About me--------------------------------------------------------------
 - i like improv, storytelling, rock music, and playing the drums in my spare time
 - typing aficionado
 - i dont get very many things done
-- asexual because yes
-- mechanical keyboards are cool, finished my first build (meridian r1 w/ rgb pcb, silent t1s and nk spellbooks(LOVE those keycaps))
+mechanical keyboards are cool
 
 What I'm working on--------------------------------------------------------------
 
